@@ -1,4 +1,4 @@
-**SQL Query to Retrieve Records from T1 Not Present in T2**
+# **SQL Query To Retrieve Records From T1 Not Present In T2**
 
 This repository contains a SQL query that retrieves records from table T1 which are not present in table T2.
 
